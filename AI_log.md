@@ -4,7 +4,7 @@
 
 ## Thông tin sinh viên
 
-- Họ và tên: [ ... ]
+- Họ và tên: Đỗ Thị Quỳnh
 - Mã sinh viên – Lớp: [ ... ]
 - Ngày thực hiện: [ ... ]
 - Link repository: [ ... ]
