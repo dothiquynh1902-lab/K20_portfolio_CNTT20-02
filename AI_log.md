@@ -5,11 +5,11 @@
 ## Thông tin sinh viên
 
 - Họ và tên: Đỗ Thị Quỳnh
-- Mã sinh viên – Lớp: [ ... ]
-- Ngày thực hiện: [ ... ]
-- Link repository: [ ... ]
-- URL website: [ ... ]
-- Tình huống: [ ] Website của tôi  [ ] Repo luyện của giảng viên
+- Mã sinh viên – Lớp: 2071020163 - CNTT20-02
+- Ngày thực hiện: 30/10/2026
+- Link repository: https://github.com/dothiquynh1902-lab/K20_portfolio_CNTT20-02.git
+- URL website: https://dothiquynh1902-lab.github.io/K20_portfolio_CNTT20-02/
+- Tình huống: [ X] Website của tôi  [ ] Repo luyện của giảng viên
 
 ## 1. Nhận định của tôi trước khi hỏi AI
 
